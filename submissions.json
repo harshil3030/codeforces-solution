@@ -1,4 +1,21 @@
 {
+  "CF195451192": {
+    "contest_id": 1791,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces\\1791\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Codeforces Checking",
+    "problem_url": "https://codeforces.com/contest/1791/problem/A",
+    "submission_id": "CF195451192",
+    "submission_url": "https://codeforces.com/contest/1791/submission/195451192",
+    "tags": [
+      "implementation",
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Mar/01/2023 18:26"
+  },
   "CF195531915": {
     "contest_id": 1790,
     "language": "C++14 (GCC 6-32)",

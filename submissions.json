@@ -1,4 +1,22 @@
 {
+  "CF196166045": {
+    "contest_id": 1788,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1788\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "One and Two",
+    "problem_url": "https://codeforces.com/contest/1788/problem/A",
+    "submission_id": "CF196166045",
+    "submission_url": "https://codeforces.com/contest/1788/submission/196166045",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/05/2023 22:50"
+  },
   "CF196366585": {
     "contest_id": 1787,
     "language": "C++17 (GCC 7-32)",

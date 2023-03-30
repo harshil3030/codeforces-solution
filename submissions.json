@@ -1,4 +1,21 @@
 {
+  "CF199793692": {
+    "contest_id": 1807,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1807\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Odd Queries",
+    "problem_url": "https://codeforces.com/contest/1807/problem/D",
+    "submission_id": "CF199793692",
+    "submission_url": "https://codeforces.com/contest/1807/submission/199793692",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Mar/30/2023 13:07"
+  },
   "CF199947946": {
     "contest_id": 580,
     "language": "C++17 (GCC 7-32)",

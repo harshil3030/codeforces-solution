@@ -1,4 +1,21 @@
 {
+  "CF201233700": {
+    "contest_id": 1800,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1800\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Count the Number of Pairs",
+    "problem_url": "https://codeforces.com/contest/1800/problem/B",
+    "submission_id": "CF201233700",
+    "submission_url": "https://codeforces.com/contest/1800/submission/201233700",
+    "tags": [
+      "greedy",
+      "strings",
+      "*1000"
+    ],
+    "timestamp": "Apr/08/2023 14:22"
+  },
   "CF205993212": {
     "contest_id": 1790,
     "language": "C++17 (GCC 7-32)",

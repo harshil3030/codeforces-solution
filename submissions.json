@@ -1,4 +1,20 @@
 {
+  "CF209733939": {
+    "contest_id": 71,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\71\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Way Too Long Words",
+    "problem_url": "https://codeforces.com/contest/71/problem/A",
+    "submission_id": "CF209733939",
+    "submission_url": "https://codeforces.com/contest/71/submission/209733939",
+    "tags": [
+      "strings",
+      "*800"
+    ],
+    "timestamp": "Jun/15/2023 13:17"
+  },
   "CF211353276": {
     "contest_id": 1843,
     "language": "Java 8",

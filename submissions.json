@@ -1,4 +1,22 @@
 {
+  "CF211353276": {
+    "contest_id": 1843,
+    "language": "Java 8",
+    "path": "codeforces\\1843\\B.java",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Long Long",
+    "problem_url": "https://codeforces.com/contest/1843/problem/B",
+    "submission_id": "CF211353276",
+    "submission_url": "https://codeforces.com/contest/1843/submission/211353276",
+    "tags": [
+      "greedy",
+      "math",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Jun/28/2023 21:08"
+  },
   "CF211354090": {
     "contest_id": 1843,
     "language": "Java 8",

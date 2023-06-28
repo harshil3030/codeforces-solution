@@ -1,4 +1,22 @@
 {
+  "CF211354090": {
+    "contest_id": 1843,
+    "language": "Java 8",
+    "path": "codeforces\\1843\\A.java",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sasha and Array Coloring",
+    "problem_url": "https://codeforces.com/contest/1843/problem/A",
+    "submission_id": "CF211354090",
+    "submission_url": "https://codeforces.com/contest/1843/submission/211354090",
+    "tags": [
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Jun/28/2023 21:19"
+  },
   "CF211355086": {
     "contest_id": 1842,
     "language": "Java 8",

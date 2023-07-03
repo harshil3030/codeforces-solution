@@ -1,4 +1,20 @@
 {
+  "CF211958671": {
+    "contest_id": 1003,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1003\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Polycarp's Pockets",
+    "problem_url": "https://codeforces.com/contest/1003/problem/A",
+    "submission_id": "CF211958671",
+    "submission_url": "https://codeforces.com/contest/1003/submission/211958671",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/03/2023 19:39"
+  },
   "CF212349969": {
     "contest_id": 1841,
     "language": "C++17 (GCC 7-32)",

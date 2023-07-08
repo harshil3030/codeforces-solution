@@ -1,4 +1,22 @@
 {
+  "CF212820067": {
+    "contest_id": 1750,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1750\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maximum Substring",
+    "problem_url": "https://codeforces.com/contest/1750/problem/B",
+    "submission_id": "CF212820067",
+    "submission_url": "https://codeforces.com/contest/1750/submission/212820067",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/08/2023 17:25"
+  },
   "CF212855399": {
     "contest_id": 807,
     "language": "C++20 (GCC 11-64)",

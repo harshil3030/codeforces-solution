@@ -1,4 +1,20 @@
 {
+  "CF212770390": {
+    "contest_id": 1136,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1136\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Nastya Is Reading a Book",
+    "problem_url": "https://codeforces.com/contest/1136/problem/A",
+    "submission_id": "CF212770390",
+    "submission_url": "https://codeforces.com/contest/1136/submission/212770390",
+    "tags": [
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Jul/08/2023 10:49"
+  },
   "CF212777434": {
     "contest_id": 615,
     "language": "C++17 (GCC 7-32)",

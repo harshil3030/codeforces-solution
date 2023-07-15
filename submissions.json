@@ -1,4 +1,20 @@
 {
+  "CF213881139": {
+    "contest_id": 1183,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1183\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Equalize Prices",
+    "problem_url": "https://codeforces.com/contest/1183/problem/B",
+    "submission_id": "CF213881139",
+    "submission_url": "https://codeforces.com/contest/1183/submission/213881139",
+    "tags": [
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/15/2023 14:30"
+  },
   "CF213886363": {
     "contest_id": 1665,
     "language": "C++20 (GCC 11-64)",

@@ -1,4 +1,21 @@
 {
+  "CF214017934": {
+    "contest_id": 1427,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1427\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Avoiding Zero",
+    "problem_url": "https://codeforces.com/contest/1427/problem/A",
+    "submission_id": "CF214017934",
+    "submission_url": "https://codeforces.com/contest/1427/submission/214017934",
+    "tags": [
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jul/16/2023 15:47"
+  },
   "CF214220887": {
     "contest_id": 1689,
     "language": "C++17 (GCC 7-32)",

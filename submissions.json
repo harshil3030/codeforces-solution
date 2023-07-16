@@ -1,4 +1,22 @@
 {
+  "CF213986344": {
+    "contest_id": 1845,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1845\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Come Together",
+    "problem_url": "https://codeforces.com/contest/1845/problem/B",
+    "submission_id": "CF213986344",
+    "submission_url": "https://codeforces.com/contest/1845/submission/213986344",
+    "tags": [
+      "geometry",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/16/2023 11:06"
+  },
   "CF213987683": {
     "contest_id": 1279,
     "language": "C++17 (GCC 7-32)",

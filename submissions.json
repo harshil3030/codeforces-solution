@@ -1,4 +1,22 @@
 {
+  "CF214930261": {
+    "contest_id": 1138,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1138\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Sushi for Two",
+    "problem_url": "https://codeforces.com/contest/1138/problem/A",
+    "submission_id": "CF214930261",
+    "submission_url": "https://codeforces.com/contest/1138/submission/214930261",
+    "tags": [
+      "binary search",
+      "greedy",
+      "implementation",
+      "*900"
+    ],
+    "timestamp": "Jul/21/2023 22:06"
+  },
   "CF214934052": {
     "contest_id": 1248,
     "language": "C++17 (GCC 7-32)",

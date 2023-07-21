@@ -1,4 +1,22 @@
 {
+  "CF214934052": {
+    "contest_id": 1248,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1248\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Grow The Tree",
+    "problem_url": "https://codeforces.com/contest/1248/problem/B",
+    "submission_id": "CF214934052",
+    "submission_url": "https://codeforces.com/contest/1248/submission/214934052",
+    "tags": [
+      "greedy",
+      "math",
+      "sortings",
+      "*900"
+    ],
+    "timestamp": "Jul/21/2023 22:18"
+  },
   "CF214938040": {
     "contest_id": 1794,
     "language": "C++17 (GCC 7-32)",

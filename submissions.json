@@ -1,4 +1,23 @@
 {
+  "CF214954680": {
+    "contest_id": 670,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\670\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Holidays",
+    "problem_url": "https://codeforces.com/contest/670/problem/A",
+    "submission_id": "CF214954680",
+    "submission_url": "https://codeforces.com/contest/670/submission/214954680",
+    "tags": [
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*900"
+    ],
+    "timestamp": "Jul/22/2023 00:59"
+  },
   "CF214991438": {
     "contest_id": 1777,
     "language": "C++17 (GCC 7-32)",

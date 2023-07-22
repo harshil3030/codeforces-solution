@@ -1,4 +1,22 @@
 {
+  "CF214999174": {
+    "contest_id": 1251,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1251\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Broken Keyboard",
+    "problem_url": "https://codeforces.com/contest/1251/problem/A",
+    "submission_id": "CF214999174",
+    "submission_url": "https://codeforces.com/contest/1251/submission/214999174",
+    "tags": [
+      "brute force",
+      "strings",
+      "two pointers",
+      "*1000"
+    ],
+    "timestamp": "Jul/22/2023 12:04"
+  },
   "CF215003045": {
     "contest_id": 1230,
     "language": "C++17 (GCC 7-32)",

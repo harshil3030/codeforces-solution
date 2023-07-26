@@ -1,4 +1,21 @@
 {
+  "CF215655137": {
+    "contest_id": 1237,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1237\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Balanced Rating Changes",
+    "problem_url": "https://codeforces.com/contest/1237/problem/A",
+    "submission_id": "CF215655137",
+    "submission_url": "https://codeforces.com/contest/1237/submission/215655137",
+    "tags": [
+      "implementation",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Jul/26/2023 05:36"
+  },
   "CF215656429": {
     "contest_id": 334,
     "language": "C++17 (GCC 7-32)",

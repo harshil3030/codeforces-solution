@@ -1,4 +1,20 @@
 {
+  "CF215656429": {
+    "contest_id": 334,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\334\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Candy Bags",
+    "problem_url": "https://codeforces.com/contest/334/problem/A",
+    "submission_id": "CF215656429",
+    "submission_url": "https://codeforces.com/contest/334/submission/215656429",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Jul/26/2023 06:11"
+  },
   "CF215658547": {
     "contest_id": 1841,
     "language": "C++17 (GCC 7-32)",

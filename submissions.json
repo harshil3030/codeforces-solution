@@ -1,4 +1,21 @@
 {
+  "CF217333309": {
+    "contest_id": 78,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\78\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Easter Eggs",
+    "problem_url": "https://codeforces.com/contest/78/problem/B",
+    "submission_id": "CF217333309",
+    "submission_url": "https://codeforces.com/contest/78/submission/217333309",
+    "tags": [
+      "constructive algorithms",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Aug/05/2023 21:29"
+  },
   "CF217408076": {
     "contest_id": 1253,
     "language": "C++17 (GCC 7-32)",

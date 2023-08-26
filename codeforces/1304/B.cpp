@@ -69,18 +69,12 @@ void solve(){
 	string left = "";
 	string mid = "";
 	string right = "";
-	string rev = ""; int flg = 0;
+
 	for (auto x : vs) mp[x]++;
 	for (int i = 0; i < n; i++) {
 		string t = vs[i];
 		reverse (t.begin(), t.end());
-		if (t == vs[i]){
-		 if (flg == 1 && rev == t) mid += t; 
-		 if (flg == 0){
-		 mid = t; flg = 1;
-		 if (rev == "") rev = mid;
-			}
-		}
+		if (t == vs[i]) mid = t;
 		else if (mp[t] > 0 && mp[vs[i]] > 0) {
 			left += vs[i];
 			right += vs[i];

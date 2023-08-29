@@ -1,4 +1,21 @@
 {
+  "CF220964606": {
+    "contest_id": 705,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\705\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Spider Man",
+    "problem_url": "https://codeforces.com/contest/705/problem/B",
+    "submission_id": "CF220964606",
+    "submission_url": "https://codeforces.com/contest/705/submission/220964606",
+    "tags": [
+      "games",
+      "math",
+      "*1100"
+    ],
+    "timestamp": "Aug/29/2023 17:39"
+  },
   "CF220968758": {
     "contest_id": 686,
     "language": "C++20 (GCC 11-64)",

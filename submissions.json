@@ -1,4 +1,22 @@
 {
+  "CF221384692": {
+    "contest_id": 1820,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1820\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "JoJo's Incredible Adventures",
+    "problem_url": "https://codeforces.com/contest/1820/problem/B",
+    "submission_id": "CF221384692",
+    "submission_url": "https://codeforces.com/contest/1820/submission/221384692",
+    "tags": [
+      "math",
+      "strings",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "Sep/01/2023 03:18"
+  },
   "CF222045951": {
     "contest_id": 895,
     "language": "C++20 (GCC 11-64)",

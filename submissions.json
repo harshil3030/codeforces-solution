@@ -1,4 +1,22 @@
 {
+  "CF222047367": {
+    "contest_id": 892,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\892\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Wrath",
+    "problem_url": "https://codeforces.com/contest/892/problem/B",
+    "submission_id": "CF222047367",
+    "submission_url": "https://codeforces.com/contest/892/submission/222047367",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*1200"
+    ],
+    "timestamp": "Sep/06/2023 16:08"
+  },
   "CF222050545": {
     "contest_id": 899,
     "language": "C++20 (GCC 11-64)",

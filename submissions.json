@@ -1,4 +1,21 @@
 {
+  "CF222057623": {
+    "contest_id": 875,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\875\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Classroom Watch",
+    "problem_url": "https://codeforces.com/contest/875/problem/A",
+    "submission_id": "CF222057623",
+    "submission_url": "https://codeforces.com/contest/875/submission/222057623",
+    "tags": [
+      "brute force",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Sep/06/2023 17:35"
+  },
   "CF222153403": {
     "contest_id": 870,
     "language": "C++20 (GCC 11-64)",

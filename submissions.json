@@ -1,4 +1,21 @@
 {
+  "CF222054133": {
+    "contest_id": 879,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\879\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Table Tennis",
+    "problem_url": "https://codeforces.com/contest/879/problem/B",
+    "submission_id": "CF222054133",
+    "submission_url": "https://codeforces.com/contest/879/submission/222054133",
+    "tags": [
+      "data structures",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Sep/06/2023 17:07"
+  },
   "CF222057623": {
     "contest_id": 875,
     "language": "C++20 (GCC 11-64)",

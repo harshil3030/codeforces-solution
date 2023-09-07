@@ -1,4 +1,21 @@
 {
+  "CF222154565": {
+    "contest_id": 854,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\854\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Maxim Buys an Apartment",
+    "problem_url": "https://codeforces.com/contest/854/problem/B",
+    "submission_id": "CF222154565",
+    "submission_url": "https://codeforces.com/contest/854/submission/222154565",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Sep/07/2023 09:31"
+  },
   "CF222155132": {
     "contest_id": 842,
     "language": "C++20 (GCC 11-64)",

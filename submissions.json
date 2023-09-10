@@ -1,4 +1,22 @@
 {
+  "CF222674276": {
+    "contest_id": 817,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\817\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Treasure Hunt",
+    "problem_url": "https://codeforces.com/contest/817/problem/A",
+    "submission_id": "CF222674276",
+    "submission_url": "https://codeforces.com/contest/817/submission/222674276",
+    "tags": [
+      "implementation",
+      "math",
+      "number theory",
+      "*1200"
+    ],
+    "timestamp": "Sep/10/2023 11:44"
+  },
   "CF222851316": {
     "contest_id": 1848,
     "language": "C++20 (GCC 11-64)",

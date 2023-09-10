@@ -86,7 +86,7 @@ void solve(){
 	cin >> x >> y;
 	ll diff1 = abs(da - a);
 	ll diff2 = abs(db - b);
-	/*if (x == 0 && y == 0) {
+	if (x == 0 && y == 0) {
 		if (a == da && b == db) {
 			cy; return;
 		}else cn;
@@ -101,7 +101,7 @@ void solve(){
 		if (b != db) {
 			cn; return;
 		}
-	}*/
+	}
 	if (diff1 % x == 0 && diff2 % y == 0) {
 			ll steps1 = diff1 / x;
 			ll steps2 = diff2 / y;

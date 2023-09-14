@@ -1,4 +1,22 @@
 {
+  "CF223377491": {
+    "contest_id": 1790,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1790\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Matryoshkas",
+    "problem_url": "https://codeforces.com/contest/1790/problem/D",
+    "submission_id": "CF223377491",
+    "submission_url": "https://codeforces.com/contest/1790/submission/223377491",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "*1200"
+    ],
+    "timestamp": "Sep/14/2023 21:24"
+  },
   "CF223377747": {
     "contest_id": 1790,
     "language": "C++20 (GCC 11-64)",

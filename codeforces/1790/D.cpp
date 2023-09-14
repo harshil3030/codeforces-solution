@@ -1,39 +1,37 @@
-#include<bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <queue>
+#include <map>
+#include <set>
+
 using namespace std;
+
 void solve() {
-	int n;
-	cin >> n;
-	map<int, int> mp;
-	set<int> st;
-	vector <int> v(n);
-	for (int i = 0; i < n; i++) {
-		cin >> v[i];
-		mp[v[i]]++;
-		st.insert(v[i]);
-		st.insert(v[i] + 1);
-	}
-	int last = 0;
-	int cnt = 0;	
-	for (auto x : st) {
-		int freq = mp[x];
-		cnt += max(0, freq - last);
-		last = freq;
-	}
-	cout << cnt << "\n";
-};
-int main(){
-
-// ----------------- IO & IO Display Settings -----------------------//
-#ifndef ONLINE_JUDGE
-	freopen("input.txt","r",stdin);
-	freopen("output.txt","w",stdout);
-#endif
-ios_base::sync_with_stdio(0);
-cin.tie(0);cout.tie(0);
-// ----------------- IO & IO Display Settings -----------------------//
-
-int tt; cin >> tt;
-while(tt--) solve();
-return 0;
+    int n;
+    cin >> n;
+    vector<int> a(n);
+    map<int, int> cnt;
+    set<int> b;
+    for (int i = 0; i < n; ++i) {
+        cin >> a[i];
+        cnt[a[i]]++;
+        b.insert(a[i]);
+        b.insert(a[i] + 1);
+    }
+    int last = 0;
+    int res = 0;
+    for (auto x: b) {
+        int c = cnt[x];
+        res += max(0, c - last);
+        last = c;
+    }
+    cout << res << '\n';
 }
 
+int main(int argc, char* argv[]) {
+    int t;
+    cin >> t;
+    for (int i = 0; i < t; ++i) {
+        solve();
+    }
+}

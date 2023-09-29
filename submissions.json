@@ -1,4 +1,22 @@
 {
+  "CF225754527": {
+    "contest_id": 1873,
+    "language": "Java 17",
+    "path": "codeforces\\1873\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "1D Eraser",
+    "problem_url": "https://codeforces.com/contest/1873/problem/D",
+    "submission_id": "CF225754527",
+    "submission_url": "https://codeforces.com/contest/1873/submission/225754527",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Sep/29/2023 14:24"
+  },
   "CF226733789": {
     "contest_id": 1581,
     "language": "C++20 (GCC 11-64)",

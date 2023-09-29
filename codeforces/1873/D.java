@@ -8,8 +8,8 @@ public class quester_013 {
             PrintWriter out = new PrintWriter(System.out);
             int testCases=in.nextInt();
             while(testCases-- > 0) {
-            	Solver.solve(in, out);
-         	}
+            Solver.solve(in, out);
+            }
             out.close();
         } catch (Exception e) {
             return;
@@ -37,7 +37,7 @@ class Pair<A, B> {
         this.b = b;
     }
 }
-//Fast IO 
+
 class InputReader {
  
 		private final InputStream stream;
@@ -144,10 +144,9 @@ class InputReader {
 		}
 	}
 
-//Solver
 class Solver {
 	 static void solve (InputReader in, PrintWriter out) throws IOException {
-	 	int n = in.nextInt();
+		int n = in.nextInt();
 		int k = in.nextInt();
 		String s = in.readString();
 		ArrayList <Integer> li = new ArrayList<>();
@@ -169,3 +168,4 @@ class Solver {
 		out.println(cnt);
 	 }
 }
+ 

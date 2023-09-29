@@ -2051,6 +2051,24 @@
     ],
     "timestamp": "Sep/25/2023 20:14"
   },
+  "CF225754120": {
+    "contest_id": 1873,
+    "language": "Java 17",
+    "path": "codeforces\\1873\\D.java",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "1D Eraser",
+    "problem_url": "https://codeforces.com/contest/1873/problem/D",
+    "submission_id": "CF225754120",
+    "submission_url": "https://codeforces.com/contest/1873/submission/225754120",
+    "tags": [
+      "greedy",
+      "implementation",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "Sep/29/2023 14:20"
+  },
   "CF225754527": {
     "contest_id": 1873,
     "language": "Java 17",

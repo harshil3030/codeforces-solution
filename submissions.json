@@ -2069,6 +2069,24 @@
     ],
     "timestamp": "Sep/29/2023 14:24"
   },
+  "CF225964866": {
+    "contest_id": 1875,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1875\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Jellyfish and Game",
+    "problem_url": "https://codeforces.com/contest/1875/problem/B",
+    "submission_id": "CF225964866",
+    "submission_url": "https://codeforces.com/contest/1875/submission/225964866",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "*1200"
+    ],
+    "timestamp": "Sep/30/2023 20:35"
+  },
   "CF226246931": {
     "contest_id": 1760,
     "language": "C++20 (GCC 11-64)",

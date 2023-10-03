@@ -2069,6 +2069,23 @@
     ],
     "timestamp": "Sep/29/2023 14:24"
   },
+  "CF226440230": {
+    "contest_id": 1583,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1583\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Omkar and Heavenly Tree",
+    "problem_url": "https://codeforces.com/contest/1583/problem/B",
+    "submission_id": "CF226440230",
+    "submission_url": "https://codeforces.com/contest/1583/submission/226440230",
+    "tags": [
+      "constructive algorithms",
+      "trees",
+      "*1200"
+    ],
+    "timestamp": "Oct/03/2023 18:36"
+  },
   "CF226588135": {
     "contest_id": 1490,
     "language": "C++20 (GCC 11-64)",

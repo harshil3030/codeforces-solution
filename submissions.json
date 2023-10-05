@@ -1,4 +1,23 @@
 {
+  "CF226733789": {
+    "contest_id": 1581,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1581\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Diameter of Graph",
+    "problem_url": "https://codeforces.com/contest/1581/problem/B",
+    "submission_id": "CF226733789",
+    "submission_url": "https://codeforces.com/contest/1581/submission/226733789",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Oct/05/2023 17:51"
+  },
   "CF226882043": {
     "contest_id": 1598,
     "language": "C++20 (GCC 11-64)",

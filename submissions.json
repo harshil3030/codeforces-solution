@@ -1,4 +1,20 @@
 {
+  "CF226888320": {
+    "contest_id": 1133,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1133\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Middle of the Contest",
+    "problem_url": "https://codeforces.com/contest/1133/problem/A",
+    "submission_id": "CF226888320",
+    "submission_url": "https://codeforces.com/contest/1133/submission/226888320",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "Oct/06/2023 19:57"
+  },
   "CF228188950": {
     "contest_id": 1886,
     "language": "C++20 (GCC 11-64)",

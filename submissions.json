@@ -1,4 +1,24 @@
 {
+  "CF229514768": {
+    "contest_id": 1884,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1884\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Medium Design",
+    "problem_url": "https://codeforces.com/contest/1884/problem/C",
+    "submission_id": "CF229514768",
+    "submission_url": "https://codeforces.com/contest/1884/submission/229514768",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Oct/24/2023 11:41"
+  },
   "CF229515098": {
     "contest_id": 1884,
     "language": "C++20 (GCC 11-64)",

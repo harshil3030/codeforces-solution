@@ -81,7 +81,7 @@ return 0;
 void solve(){
 	//write down your solution from here	
 	int n, m;
-    cin >> n >> m;
+    std::cin >> n >> m;
     vector<pair<ll, ll>> vp(n);
     map<ll , ll> mp1; map<ll, ll> mp2;
     for (int i = 0; i < n; i++) {

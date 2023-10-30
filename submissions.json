@@ -1,4 +1,20 @@
 {
+  "CF230473249": {
+    "contest_id": 1883,
+    "language": "C++14 (GCC 6-32)",
+    "path": "codeforces\\1883\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chemistry",
+    "problem_url": "https://codeforces.com/contest/1883/problem/B",
+    "submission_id": "CF230473249",
+    "submission_url": "https://codeforces.com/contest/1883/submission/230473249",
+    "tags": [
+      "strings",
+      "*900"
+    ],
+    "timestamp": "Oct/30/2023 14:53"
+  },
   "CF230529493": {
     "contest_id": 1879,
     "language": "C++20 (GCC 11-64)",

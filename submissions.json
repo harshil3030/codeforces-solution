@@ -1,4 +1,21 @@
 {
+  "CF232511190": {
+    "contest_id": 887,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\887\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Cubes for Masha",
+    "problem_url": "https://codeforces.com/contest/887/problem/B",
+    "submission_id": "CF232511190",
+    "submission_url": "https://codeforces.com/contest/887/submission/232511190",
+    "tags": [
+      "brute force",
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Nov/12/2023 19:07"
+  },
   "CF232607427": {
     "contest_id": 897,
     "language": "C++20 (GCC 11-64)",

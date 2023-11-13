@@ -1,4 +1,20 @@
 {
+  "CF232607427": {
+    "contest_id": 897,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\897\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Chtholly's request",
+    "problem_url": "https://codeforces.com/contest/897/problem/B",
+    "submission_id": "CF232607427",
+    "submission_url": "https://codeforces.com/contest/897/submission/232607427",
+    "tags": [
+      "brute force",
+      "*1300"
+    ],
+    "timestamp": "Nov/13/2023 16:24"
+  },
   "CF232634746": {
     "contest_id": 899,
     "language": "C++20 (GCC 11-64)",

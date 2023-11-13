@@ -1,4 +1,22 @@
 {
+  "CF232634746": {
+    "contest_id": 899,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\899\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Dividing the numbers",
+    "problem_url": "https://codeforces.com/contest/899/problem/C",
+    "submission_id": "CF232634746",
+    "submission_url": "https://codeforces.com/contest/899/submission/232634746",
+    "tags": [
+      "constructive algorithms",
+      "graphs",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Nov/13/2023 18:49"
+  },
   "CF233070266": {
     "contest_id": 907,
     "language": "C++20 (GCC 11-64)",

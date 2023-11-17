@@ -1,4 +1,21 @@
 {
+  "CF233076197": {
+    "contest_id": 909,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\909\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Segments",
+    "problem_url": "https://codeforces.com/contest/909/problem/B",
+    "submission_id": "CF233076197",
+    "submission_url": "https://codeforces.com/contest/909/submission/233076197",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Nov/17/2023 17:21"
+  },
   "CF233078799": {
     "contest_id": 912,
     "language": "C++20 (GCC 11-64)",

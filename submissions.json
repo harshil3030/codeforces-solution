@@ -1,4 +1,20 @@
 {
+  "CF233083330": {
+    "contest_id": 915,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\915\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Browser",
+    "problem_url": "https://codeforces.com/contest/915/problem/B",
+    "submission_id": "CF233083330",
+    "submission_url": "https://codeforces.com/contest/915/submission/233083330",
+    "tags": [
+      "implementation",
+      "*1300"
+    ],
+    "timestamp": "Nov/17/2023 18:29"
+  },
   "CF233102574": {
     "contest_id": 1899,
     "language": "C++20 (GCC 11-64)",

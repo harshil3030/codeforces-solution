@@ -1,4 +1,22 @@
 {
+  "CF233166003": {
+    "contest_id": 1899,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1899\\E.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E",
+    "problem_name": "Queue Sort",
+    "problem_url": "https://codeforces.com/contest/1899/problem/E",
+    "submission_id": "CF233166003",
+    "submission_url": "https://codeforces.com/contest/1899/submission/233166003",
+    "tags": [
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1300"
+    ],
+    "timestamp": "Nov/17/2023 21:31"
+  },
   "CF233178194": {
     "contest_id": 1899,
     "language": "C++20 (GCC 11-64)",

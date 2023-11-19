@@ -1,4 +1,22 @@
 {
+  "CF233400041": {
+    "contest_id": 1846,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1846\\E1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "E1",
+    "problem_name": "Rudolf and Snowflakes (simple version)",
+    "problem_url": "https://codeforces.com/contest/1846/problem/E1",
+    "submission_id": "CF233400041",
+    "submission_url": "https://codeforces.com/contest/1846/submission/233400041",
+    "tags": [
+      "brute force",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Nov/19/2023 14:38"
+  },
   "CF233401342": {
     "contest_id": 1846,
     "language": "C++20 (GCC 11-64)",

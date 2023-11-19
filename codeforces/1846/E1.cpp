@@ -18,7 +18,7 @@ int main() {
 }
 void solve() {
 	long long n; cin >> n;
-	auto bin_expo = [&] (long long a, int b) {
+	auto bin_expo = [&] (long long a, long long b) {
 		long long ans = 1;
 		while (b > 0) {
 			if (b % 2) {
@@ -39,7 +39,7 @@ void solve() {
 				return;
 			} else {
 				long long diff = n - mn;
-				for (int i = 3; i <= 1000; i++) {
+				for (long long i = 3; i <= 1000; i++) {
 					diff -= bin_expo(k, i);
 					if (diff == 0) {
 						cout << "YES\n";

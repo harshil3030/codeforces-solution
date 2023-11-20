@@ -1,4 +1,22 @@
 {
+  "CF233585707": {
+    "contest_id": 1857,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1857\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Strong Vertices",
+    "problem_url": "https://codeforces.com/contest/1857/problem/D",
+    "submission_id": "CF233585707",
+    "submission_url": "https://codeforces.com/contest/1857/submission/233585707",
+    "tags": [
+      "math",
+      "sortings",
+      "trees",
+      "*1300"
+    ],
+    "timestamp": "Nov/20/2023 20:44"
+  },
   "CF233598728": {
     "contest_id": 1862,
     "language": "C++20 (GCC 11-64)",

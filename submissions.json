@@ -1,4 +1,20 @@
 {
+  "CF233911149": {
+    "contest_id": 1696,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1696\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "NIT Destroys the Universe",
+    "problem_url": "https://codeforces.com/contest/1696/problem/B",
+    "submission_id": "CF233911149",
+    "submission_url": "https://codeforces.com/contest/1696/submission/233911149",
+    "tags": [
+      "greedy",
+      "*900"
+    ],
+    "timestamp": "Nov/23/2023 17:39"
+  },
   "CF234053511": {
     "contest_id": 1901,
     "language": "C++20 (GCC 11-64)",

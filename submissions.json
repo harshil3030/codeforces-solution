@@ -1,4 +1,21 @@
 {
+  "CF234053511": {
+    "contest_id": 1901,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1901\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Line Trip",
+    "problem_url": "https://codeforces.com/contest/1901/problem/A",
+    "submission_id": "CF234053511",
+    "submission_url": "https://codeforces.com/contest/1901/submission/234053511",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/24/2023 20:12"
+  },
   "CF234179610": {
     "contest_id": 1895,
     "language": "C++20 (GCC 11-64)",

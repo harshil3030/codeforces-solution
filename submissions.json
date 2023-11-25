@@ -1,4 +1,20 @@
 {
+  "CF234254604": {
+    "contest_id": 1896,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1896\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Jagged Swaps",
+    "problem_url": "https://codeforces.com/contest/1896/problem/A",
+    "submission_id": "CF234254604",
+    "submission_url": "https://codeforces.com/contest/1896/submission/234254604",
+    "tags": [
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/25/2023 20:30"
+  },
   "CF234271468": {
     "contest_id": 1896,
     "language": "C++20 (GCC 11-64)",

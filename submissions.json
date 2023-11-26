@@ -1,4 +1,21 @@
 {
+  "CF234400995": {
+    "contest_id": 1833,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1833\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Vlad Building Beautiful Array",
+    "problem_url": "https://codeforces.com/contest/1833/problem/C",
+    "submission_id": "CF234400995",
+    "submission_url": "https://codeforces.com/contest/1833/submission/234400995",
+    "tags": [
+      "greedy",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Nov/26/2023 16:08"
+  },
   "CF234405875": {
     "contest_id": 1833,
     "language": "C++20 (GCC 11-64)",

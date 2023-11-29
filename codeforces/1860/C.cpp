@@ -33,16 +33,32 @@ void solve() {
     vector<int> v(n); for (auto &x : v) cin >> x;
     int mn = v[0];
     int mn2 = INT_MAX;
+    // set<int> smlcnt; 
     int ans = 0;
+    // vector<int> getaheads;
     for (int i = 1; i < n; i++) {
         if (v[i] > mn)  {
             if (v[i] < mn2) {
                 mn2 = v[i];
                 ans++;
             } 
+            // smlcnt.insert(v[i]);
+            // auto it2 = smlcnt.upper_bound(v[i]); it2--;
+            // int get = distance(smlcnt.begin(), it2);
+            // getaheads.push_back(get);
         } else {
             mn = v[i];
         }
     }
     cout << ans << "\n";
+    // int count = 0;
+    // if (getaheads.empty()) {
+    //     cout << 0 << "\n";
+    //     return;
+    // }
+    // for (int i = 0; i < getaheads.size(); i++) {
+    //     if (getaheads[i] == 0) count++;
+    // }
+    // cout << count << "\n";
+
 }

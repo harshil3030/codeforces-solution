@@ -1,4 +1,22 @@
 {
+  "CF235086122": {
+    "contest_id": 1903,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1903\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Halloumi Boxes",
+    "problem_url": "https://codeforces.com/contest/1903/problem/A",
+    "submission_id": "CF235086122",
+    "submission_url": "https://codeforces.com/contest/1903/submission/235086122",
+    "tags": [
+      "brute force",
+      "greedy",
+      "sortings",
+      "*800"
+    ],
+    "timestamp": "Nov/30/2023 22:11"
+  },
   "CF235114866": {
     "contest_id": 1903,
     "language": "C++20 (GCC 11-64)",

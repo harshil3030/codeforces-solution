@@ -1,4 +1,21 @@
 {
+  "CF235246046": {
+    "contest_id": 1898,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1898\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Milena and Admirer",
+    "problem_url": "https://codeforces.com/contest/1898/problem/B",
+    "submission_id": "CF235246046",
+    "submission_url": "https://codeforces.com/contest/1898/submission/235246046",
+    "tags": [
+      "greedy",
+      "math",
+      "*1500"
+    ],
+    "timestamp": "Dec/01/2023 21:06"
+  },
   "CF235364880": {
     "contest_id": 1772,
     "language": "C++20 (GCC 11-64)",

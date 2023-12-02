@@ -1,4 +1,21 @@
 {
+  "CF235366210": {
+    "contest_id": 1772,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1772\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Absolute Sorting",
+    "problem_url": "https://codeforces.com/contest/1772/problem/D",
+    "submission_id": "CF235366210",
+    "submission_url": "https://codeforces.com/contest/1772/submission/235366210",
+    "tags": [
+      "constructive algorithms",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Dec/02/2023 15:59"
+  },
   "CF235866754": {
     "contest_id": 1907,
     "language": "C++20 (GCC 11-64)",

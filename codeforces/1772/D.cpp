@@ -93,7 +93,7 @@ void solve() {
             int sm = v[i] + v[i+1];
             if (sm % 2) sm++;
             x = max(x,sm/2);
-//            y = min(y,sm/2);
+            y = min(y,sm/2);
         }
     }
     bool haveit = false;
@@ -107,12 +107,11 @@ void solve() {
         cout << 0 << "\n";
         return;
     }
-//    vector<int> temp = v;
-//    for (int i = 0; i < n; i++) {
-//        temp[i] = abs(temp[i] - y);
-//    }
-    int flg1 = 1;
-//    int flg2 = 1;
+    vector<int> temp = v;
+    for (int i = 0; i < n; i++) {
+        temp[i] = abs(temp[i] - y);
+    }
+    int flg1 = 1, flg2 = 1;
     for (int i = 0; i < n; i++) {
         v[i] = abs(v[i] - x);
     }
@@ -123,21 +122,21 @@ void solve() {
         }
     }
 
-//    for (int i = 0; i < n-1; i++) {
-//        if (temp[i] > temp[i + 1]) {
-//            flg2 = 0;
-//            break;
-//        }
-//    }
-    if (!flg1) {
+    for (int i = 0; i < n-1; i++) {
+        if (temp[i] > temp[i + 1]) {
+            flg2 = 0;
+            break;
+        }
+    }
+    if (!flg1 && !flg2) {
         cout << -1 << "\n";
         return;
     }
-    if (x == -1) {
+    if (x == -1 && y == INT_MAX) {
         cout << 0 << "\n";
         return;
     }
-//    if (flg1)
-        cout << x << "\n";
-//    else cout << y << "\n";
+    if (flg1)
+    cout << x << "\n";
+    else cout << y << "\n";
 }

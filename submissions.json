@@ -1,4 +1,22 @@
 {
+  "CF236087001": {
+    "contest_id": 1526,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1526\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "I Hate 1111",
+    "problem_url": "https://codeforces.com/contest/1526/problem/B",
+    "submission_id": "CF236087001",
+    "submission_url": "https://codeforces.com/contest/1526/submission/236087001",
+    "tags": [
+      "dp",
+      "math",
+      "number theory",
+      "*1400"
+    ],
+    "timestamp": "Dec/06/2023 22:41"
+  },
   "CF236226789": {
     "contest_id": 1692,
     "language": "C++20 (GCC 11-64)",

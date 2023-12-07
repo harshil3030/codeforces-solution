@@ -1,4 +1,23 @@
 {
+  "CF236226789": {
+    "contest_id": 1692,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1692\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "2^Sort",
+    "problem_url": "https://codeforces.com/contest/1692/problem/G",
+    "submission_id": "CF236226789",
+    "submission_url": "https://codeforces.com/contest/1692/submission/236226789",
+    "tags": [
+      "data structures",
+      "dp",
+      "sortings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Dec/07/2023 21:26"
+  },
   "CF236455513": {
     "contest_id": 1907,
     "language": "C++20 (GCC 11-64)",

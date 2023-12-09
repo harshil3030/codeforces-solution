@@ -1,4 +1,20 @@
 {
+  "CF236481281": {
+    "contest_id": 907,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\907\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Tic-Tac-Toe",
+    "problem_url": "https://codeforces.com/contest/907/problem/B",
+    "submission_id": "CF236481281",
+    "submission_url": "https://codeforces.com/contest/907/submission/236481281",
+    "tags": [
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "Dec/09/2023 15:32"
+  },
   "CF236525008": {
     "contest_id": 898,
     "language": "C++20 (GCC 11-64)",

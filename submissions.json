@@ -1,4 +1,21 @@
 {
+  "CF236525008": {
+    "contest_id": 898,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\898\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Phone Numbers",
+    "problem_url": "https://codeforces.com/contest/898/problem/C",
+    "submission_id": "CF236525008",
+    "submission_url": "https://codeforces.com/contest/898/submission/236525008",
+    "tags": [
+      "implementation",
+      "strings",
+      "*1400"
+    ],
+    "timestamp": "Dec/09/2023 21:34"
+  },
   "CF236540584": {
     "contest_id": 888,
     "language": "C++20 (GCC 11-64)",

@@ -1,4 +1,20 @@
 {
+  "CF236661901": {
+    "contest_id": 865,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\865\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Save the problem!",
+    "problem_url": "https://codeforces.com/contest/865/problem/A",
+    "submission_id": "CF236661901",
+    "submission_url": "https://codeforces.com/contest/865/submission/236661901",
+    "tags": [
+      "constructive algorithms",
+      "*1400"
+    ],
+    "timestamp": "Dec/10/2023 19:16"
+  },
   "CF236675283": {
     "contest_id": 851,
     "language": "C++20 (GCC 11-64)",

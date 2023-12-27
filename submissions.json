@@ -1,4 +1,23 @@
 {
+  "CF239092582": {
+    "contest_id": 1682,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1682\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "LIS or Reverse LIS?",
+    "problem_url": "https://codeforces.com/contest/1682/problem/C",
+    "submission_id": "CF239092582",
+    "submission_url": "https://codeforces.com/contest/1682/submission/239092582",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "Dec/27/2023 20:25"
+  },
   "CF239206090": {
     "contest_id": 1891,
     "language": "C++20 (GCC 11-64)",

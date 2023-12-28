@@ -1,4 +1,21 @@
 {
+  "CF239253933": {
+    "contest_id": 1882,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1882\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Card Game",
+    "problem_url": "https://codeforces.com/contest/1882/problem/C",
+    "submission_id": "CF239253933",
+    "submission_url": "https://codeforces.com/contest/1882/submission/239253933",
+    "tags": [
+      "brute force",
+      "greedy",
+      "*1500"
+    ],
+    "timestamp": "Dec/28/2023 20:19"
+  },
   "CF239808284": {
     "contest_id": 1697,
     "language": "C++20 (GCC 11-64)",

@@ -1,4 +1,24 @@
 {
+  "CF239206090": {
+    "contest_id": 1891,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1891\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Smilo and Monsters",
+    "problem_url": "https://codeforces.com/contest/1891/problem/C",
+    "submission_id": "CF239206090",
+    "submission_url": "https://codeforces.com/contest/1891/submission/239206090",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1500"
+    ],
+    "timestamp": "Dec/28/2023 19:03"
+  },
   "CF239240963": {
     "contest_id": 1882,
     "language": "C++20 (GCC 11-64)",

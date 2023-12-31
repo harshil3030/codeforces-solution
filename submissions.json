@@ -1,4 +1,26 @@
 {
+  "CF239808284": {
+    "contest_id": 1697,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1697\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "awoo's Favorite Problem",
+    "problem_url": "https://codeforces.com/contest/1697/problem/C",
+    "submission_id": "CF239808284",
+    "submission_url": "https://codeforces.com/contest/1697/submission/239808284",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "implementation",
+      "strings",
+      "two pointers",
+      "*1400"
+    ],
+    "timestamp": "Dec/31/2023 20:57"
+  },
   "CF240433784": {
     "contest_id": 1881,
     "language": "C++20 (GCC 11-64)",

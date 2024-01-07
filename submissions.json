@@ -1,4 +1,20 @@
 {
+  "CF240645213": {
+    "contest_id": 1702,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1702\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Not a Cheap String",
+    "problem_url": "https://codeforces.com/contest/1702/problem/D",
+    "submission_id": "CF240645213",
+    "submission_url": "https://codeforces.com/contest/1702/submission/240645213",
+    "tags": [
+      "greedy",
+      "*1000"
+    ],
+    "timestamp": "Jan/07/2024 11:48"
+  },
   "CF240955129": {
     "contest_id": 1760,
     "language": "C++20 (GCC 11-64)",

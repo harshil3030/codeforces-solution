@@ -1,4 +1,21 @@
 {
+  "CF240643845": {
+    "contest_id": 1702,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1702\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Train and Queries",
+    "problem_url": "https://codeforces.com/contest/1702/problem/C",
+    "submission_id": "CF240643845",
+    "submission_url": "https://codeforces.com/contest/1702/submission/240643845",
+    "tags": [
+      "data structures",
+      "greedy",
+      "*1100"
+    ],
+    "timestamp": "Jan/07/2024 11:34"
+  },
   "CF240645213": {
     "contest_id": 1702,
     "language": "C++20 (GCC 11-64)",

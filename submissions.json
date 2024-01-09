@@ -1,4 +1,22 @@
 {
+  "CF240955129": {
+    "contest_id": 1760,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1760\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Quests",
+    "problem_url": "https://codeforces.com/contest/1760/problem/F",
+    "submission_id": "CF240955129",
+    "submission_url": "https://codeforces.com/contest/1760/submission/240955129",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "Jan/09/2024 21:12"
+  },
   "CF240966530": {
     "contest_id": 1742,
     "language": "C++20 (GCC 11-64)",

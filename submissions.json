@@ -1,4 +1,22 @@
 {
+  "CF241234041": {
+    "contest_id": 1742,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1742\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Smaller",
+    "problem_url": "https://codeforces.com/contest/1742/problem/F",
+    "submission_id": "CF241234041",
+    "submission_url": "https://codeforces.com/contest/1742/submission/241234041",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "strings",
+      "*1500"
+    ],
+    "timestamp": "Jan/12/2024 10:33"
+  },
   "CF241353302": {
     "contest_id": 455,
     "language": "C++20 (GCC 11-64)",

@@ -238,6 +238,25 @@
     ],
     "timestamp": "Jan/15/2024 20:22"
   },
+  "CF241770238": {
+    "contest_id": 1921,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1921\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Very Different Array",
+    "problem_url": "https://codeforces.com/contest/1921/problem/D",
+    "submission_id": "CF241770238",
+    "submission_url": "https://codeforces.com/contest/1921/submission/241770238",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings",
+      "two pointers",
+      "*1100"
+    ],
+    "timestamp": "Jan/15/2024 20:54"
+  },
   "CF241817553": {
     "contest_id": 1921,
     "language": "C++20 (GCC 11-64)",

@@ -1,11 +1,3 @@
-// Problem: E. Eat the Chip
-// Contest: Codeforces - Codeforces Round 920 (Div. 3)
-// URL: https://codeforces.com/problemset/problem/1921/E
-// Memory Limit: 256 MB
-// Time Limit: 1000 ms
-// 
-// Powered by CP Editor (https://cpeditor.org)
-
 #include<bits/stdc++.h>
 #include<ext/pb_ds/assoc_container.hpp>
 #include<ext/pb_ds/tree_policy.hpp>

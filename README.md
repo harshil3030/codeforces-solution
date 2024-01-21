@@ -178,7 +178,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 17 | [B - Middle Class](https://codeforces.com/contest/1334/problem/B) | [C++20 (GCC 11-64)](./codeforces/1334/B.cpp) | `greedy` `sortings` `*1100` | Jan/27/2024 20:16 | 
 16 | [C - OKEA](https://codeforces.com/contest/1634/problem/C) | [C++20 (GCC 11-64)](./codeforces/1634/C.cpp) | `constructive algorithms` `*1000` | Jan/27/2024 16:33 | 
 15 | [G1 - Magic Triples (Easy Version)](https://codeforces.com/contest/1822/problem/G1) | [C++20 (GCC 11-64)](./codeforces/1822/G1.cpp) | `brute force` `data structures` `math` `number theory` `*1700` | Jan/21/2024 11:34 | 
-14 | [F - Ira and Flamenco](https://codeforces.com/contest/1833/problem/F) | [C++20 (GCC 11-64)](./codeforces/1833/F.cpp) | `combinatorics` `constructive algorithms` `data structures` `implementation` `math` `sortings` `two pointers` `*1700` | Jan/21/2024 07:02 | 
+14 | [F - Ira and Flamenco](https://codeforces.com/contest/1833/problem/F) | [C++20 (GCC 11-64)](./codeforces/1833/F.cpp) | `combinatorics` `constructive algorithms` `data structures` `implementation` `math` `sortings` `two pointers` `*1700` | Jan/21/2024 07:09 | 
 13 | [C - Sending Messages](https://codeforces.com/contest/1921/problem/C) | [C++20 (GCC 11-64)](./codeforces/1921/C.cpp) | `greedy` `math` `*900` | Jan/15/2024 20:22 | 
 12 | [B - Arranging Cats](https://codeforces.com/contest/1921/problem/B) | [C++20 (GCC 11-64)](./codeforces/1921/B.cpp) | `greedy` `implementation` `*800` | Jan/15/2024 20:14 | 
 11 | [A - Square](https://codeforces.com/contest/1921/problem/A) | [C++20 (GCC 11-64)](./codeforces/1921/A.cpp) | `greedy` `math` `*800` | Jan/15/2024 20:08 | 

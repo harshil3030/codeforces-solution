@@ -18,59 +18,59 @@ signed main() {
 }
 
 void solve() {
-	   int n,m; cin >> n >> m;
-	   vector<int> v(n); for (auto &x : v) cin >> x;
-	   map<int, int> mp;
-	   for (auto &x : v) mp[x] += 1;
-	   int final = 0;
+       int n,m; cin >> n >> m;
+       vector<int> v(n); for (auto &x : v) cin >> x;
+       map<int, int> mp;
+       for (auto &x : v) mp[x] += 1;
+       int final = 0;
 
-	   set<int> st;
-	   for (auto &x : v) st.insert(x);
-	   vector<int> temp;
-	   temp.insert(temp.end(),st.begin(),st.end());
+       set<int> st;
+       for (auto &x : v) st.insert(x);
+       vector<int> temp;
+       temp.insert(temp.end(),st.begin(),st.end());
 
-	   if (m == 1) {
-		   	cout << n << "\n";
-		   	return;
-	   }else {
-	   		auto bin_expo = [&](int x, int y, int mod) {
-	   			int ans = 1;
-	   			while (y > 0) {
-	   				if (y % 2) ans = (ans * x) % mod;
-	   				y/=2; x = ((x % mod) * (x % mod)) % mod;
-	   			}
-	   			return ans;
-	   		};
-	   		auto inv = [&](int x, int mod) {
-	   			return bin_expo(x,mod - 2,mod) % mod;
-	   		};
-	   		int ff = 0, ss = 1;
-	   		int cnt = 1; int ans = mp[temp[ff]] % mod;
-	   		while (ff <= ss && ss < temp.size()) {
-	   			if (temp[ss] - 1 == temp[ss - 1]) {
-	   				cnt++;
-	   				ans *= (mp[temp[ss]] % mod);
-	   				// cout << ans << " " << ss << "  here\n";
-	   				ans = ans % mod;
-	   				while (cnt > m) {
-	   					cnt--;
-	   					ans = ((ans % mod) * inv(mp[temp[ff]], mod)) % mod;
-	   					ff++;
-	   				}
-	   				if (cnt == m) {
-	   					final += (ans % mod);
-	   					final = final % mod;
-	   				}
-	   				ss++;
-	   			}else {
-	   				cnt = 1;
-	   				ff = ss;
-	   				ans = mp[temp[ss]] % mod;
-	   				ss++;
-	   			}
-	   		}
-	   		cout << (final % mod) << "\n";
-	   }
+       if (m == 1) {
+            cout << n << "\n";
+            return;
+       }else {
+            auto bin_expo = [&](int x, int y, int mod) {
+                int ans = 1;
+                while (y > 0) {
+                    if (y % 2) ans = (ans * x) % mod;
+                    y/=2; x = ((x % mod) * (x % mod)) % mod;
+                }
+                return ans;
+            };
+            auto inv = [&](int x, int mod) {
+                return bin_expo(x,mod - 2,mod) % mod;
+            };
+            int ff = 0, ss = 1;
+            int cnt = 1; int ans = mp[temp[ff]] % mod;
+            while (ff <= ss && ss < temp.size()) {
+                if (temp[ss] - 1 == temp[ss - 1]) {
+                    cnt++;
+                    ans *= (mp[temp[ss]] % mod);
+                    // cout << ans << " " << ss << "  here\n";
+                    ans = ans % mod;
+                    while (cnt > m) {
+                        cnt--;
+                        ans = ((ans % mod) * inv(mp[temp[ff]], mod)) % mod;
+                        ff++;
+                    }
+                    if (cnt == m) {
+                        final += (ans % mod);
+                        final = final % mod;
+                    }
+                    ss++;
+                }else {
+                    cnt = 1;
+                    ff = ss;
+                    ans = mp[temp[ss]] % mod;
+                    ss++;
+                }
+            }
+            cout << (final % mod) << "\n";
+       }
 
 
 }

@@ -1,4 +1,22 @@
 {
+  "CF244425307": {
+    "contest_id": 1849,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1849\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Array Painting",
+    "problem_url": "https://codeforces.com/contest/1849/problem/D",
+    "submission_id": "CF244425307",
+    "submission_url": "https://codeforces.com/contest/1849/submission/244425307",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "Feb/01/2024 21:20"
+  },
   "CF244526019": {
     "contest_id": 1902,
     "language": "C++20 (GCC 11-64)",

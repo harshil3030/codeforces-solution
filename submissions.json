@@ -1,4 +1,21 @@
 {
+  "CF244638522": {
+    "contest_id": 1342,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1342\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Road To Zero",
+    "problem_url": "https://codeforces.com/contest/1342/problem/A",
+    "submission_id": "CF244638522",
+    "submission_url": "https://codeforces.com/contest/1342/submission/244638522",
+    "tags": [
+      "greedy",
+      "math",
+      "*1000"
+    ],
+    "timestamp": "Feb/03/2024 10:47"
+  },
   "CF244772584": {
     "contest_id": 1359,
     "language": "C++20 (GCC 11-64)",

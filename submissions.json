@@ -1,4 +1,21 @@
 {
+  "CF244822421": {
+    "contest_id": 1366,
+    "language": "C++20 (GCC 11-64)",
+    "path": "codeforces\\1366\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Shuffle",
+    "problem_url": "https://codeforces.com/contest/1366/problem/B",
+    "submission_id": "CF244822421",
+    "submission_url": "https://codeforces.com/contest/1366/submission/244822421",
+    "tags": [
+      "math",
+      "two pointers",
+      "*1300"
+    ],
+    "timestamp": "Feb/04/2024 18:08"
+  },
   "CF244871391": {
     "contest_id": 1366,
     "language": "C++20 (GCC 11-64)",

@@ -1,4 +1,22 @@
 {
+  "CF245696351": {
+    "contest_id": 1922,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1922\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Closest Cities",
+    "problem_url": "https://codeforces.com/contest/1922/problem/C",
+    "submission_id": "CF245696351",
+    "submission_url": "https://codeforces.com/contest/1922/submission/245696351",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "*1300"
+    ],
+    "timestamp": "Feb/10/2024 15:15"
+  },
   "CF245699219": {
     "contest_id": 1921,
     "language": "C++17 (GCC 7-32)",

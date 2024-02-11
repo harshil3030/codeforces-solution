@@ -1,4 +1,21 @@
 {
+  "CF245805389": {
+    "contest_id": 1928,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1928\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Rectangle Cutting",
+    "problem_url": "https://codeforces.com/contest/1928/problem/A",
+    "submission_id": "CF245805389",
+    "submission_url": "https://codeforces.com/contest/1928/submission/245805389",
+    "tags": [
+      "geometry",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Feb/11/2024 15:19"
+  },
   "CF245821647": {
     "contest_id": 1928,
     "language": "C++17 (GCC 7-32)",

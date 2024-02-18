@@ -264,6 +264,24 @@
     ],
     "timestamp": "Feb/13/2024 21:15"
   },
+  "CF246995217": {
+    "contest_id": 1932,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1932\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Thorns and Coins",
+    "problem_url": "https://codeforces.com/contest/1932/problem/A",
+    "submission_id": "CF246995217",
+    "submission_url": "https://codeforces.com/contest/1932/submission/246995217",
+    "tags": [
+      "dp",
+      "greedy",
+      "implementation",
+      "*800"
+    ],
+    "timestamp": "Feb/18/2024 17:40"
+  },
   "CF247005469": {
     "contest_id": 1932,
     "language": "C++17 (GCC 7-32)",

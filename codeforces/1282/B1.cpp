@@ -192,24 +192,39 @@ void solve() {
     vector<int> v(n);
     for (auto &x : v)cin >> x;
     sort(v.begin(), v.end());
-    
-    int sm[n];
-    int dp[n];
-    if (v[0] > p) {
-        cout << 0 << "\n";
-        return;
-    }
-    sm[0] = v[0];
-    sm[1] = v[1];
-    for (int i = 2; i < n; i++) {
-        sm[i] = sm[i-2] + v[i];
-    }
-    
     int mx = 0;
-    for (int i = 0; i < n; i++) {
-        if (sm[i] <= p) {
-            mx = max(mx, i+1);
+    if (v[1] <= p) {
+        mx = 2;
+        int sm = v[1];
+        for (int i = 3; i < n; i+=2) {
+            sm += v[i];
+            if (sm <= p) {
+                mx = max(mx, i+1);
+            } else {
+                sm -= v[i];
+                break;
+            }
         }
+        if (mx < n) {
+            if (sm + v[mx] <= p) {
+                mx++;
+            }
+        }
+        sm = v[0];
+        for (int i = 2; i < n; i+=2) {
+            if (sm + v[i] <= p) {
+                sm += v[i];
+                mx = max(mx, i+1);
+            }
+        }
+        
+    } else {
+        if (v[0] <= p) {
+            cout << 1 << "\n";
+        } else {
+            cout << 0 << "\n";
+        }
+        return;
     }
     cout << mx << "\n";
 }

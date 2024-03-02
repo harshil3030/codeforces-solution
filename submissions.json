@@ -408,6 +408,23 @@
     ],
     "timestamp": "Feb/25/2024 15:56"
   },
+  "CF249310115": {
+    "contest_id": 1937,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1937\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Shuffle Party",
+    "problem_url": "https://codeforces.com/contest/1937/problem/A",
+    "submission_id": "CF249310115",
+    "submission_url": "https://codeforces.com/contest/1937/submission/249310115",
+    "tags": [
+      "implementation",
+      "math",
+      "*800"
+    ],
+    "timestamp": "Mar/02/2024 17:50"
+  },
   "CF249356591": {
     "contest_id": 1915,
     "language": "C++17 (GCC 7-32)",

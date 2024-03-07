@@ -408,6 +408,22 @@
     ],
     "timestamp": "Feb/25/2024 15:56"
   },
+  "CF250033626": {
+    "contest_id": 1195,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1195\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Basketball Exercise",
+    "problem_url": "https://codeforces.com/contest/1195/problem/C",
+    "submission_id": "CF250033626",
+    "submission_url": "https://codeforces.com/contest/1195/submission/250033626",
+    "tags": [
+      "dp",
+      "*1400"
+    ],
+    "timestamp": "Mar/07/2024 12:32"
+  },
   "CF250078892": {
     "contest_id": 1245,
     "language": "C++17 (GCC 7-32)",

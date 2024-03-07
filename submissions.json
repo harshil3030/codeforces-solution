@@ -1,4 +1,20 @@
 {
+  "CF250078892": {
+    "contest_id": 1245,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1245\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Constanze's Machine",
+    "problem_url": "https://codeforces.com/contest/1245/problem/C",
+    "submission_id": "CF250078892",
+    "submission_url": "https://codeforces.com/contest/1245/submission/250078892",
+    "tags": [
+      "dp",
+      "*1400"
+    ],
+    "timestamp": "Mar/07/2024 18:44"
+  },
   "CF253023757": {
     "contest_id": 1821,
     "language": "C++17 (GCC 7-32)",

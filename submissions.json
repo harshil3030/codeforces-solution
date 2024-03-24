@@ -1,4 +1,24 @@
 {
+  "CF253039920": {
+    "contest_id": 1759,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1759\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "Restore the Permutation",
+    "problem_url": "https://codeforces.com/contest/1759/problem/G",
+    "submission_id": "CF253039920",
+    "submission_url": "https://codeforces.com/contest/1759/submission/253039920",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "data structures",
+      "greedy",
+      "math",
+      "*1900"
+    ],
+    "timestamp": "Mar/24/2024 12:45"
+  },
   "CF253359900": {
     "contest_id": 1834,
     "language": "C++17 (GCC 7-32)",

@@ -1,4 +1,24 @@
 {
+  "CF253359900": {
+    "contest_id": 1834,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1834\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Survey in Class",
+    "problem_url": "https://codeforces.com/contest/1834/problem/D",
+    "submission_id": "CF253359900",
+    "submission_url": "https://codeforces.com/contest/1834/submission/253359900",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "implementation",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "Mar/26/2024 19:45"
+  },
   "CF253957329": {
     "contest_id": 733,
     "language": "C++17 (GCC 7-32)",

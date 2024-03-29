@@ -1,4 +1,22 @@
 {
+  "CF253974215": {
+    "contest_id": 732,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\732\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Exams",
+    "problem_url": "https://codeforces.com/contest/732/problem/D",
+    "submission_id": "CF253974215",
+    "submission_url": "https://codeforces.com/contest/732/submission/253974215",
+    "tags": [
+      "binary search",
+      "greedy",
+      "sortings",
+      "*1700"
+    ],
+    "timestamp": "Mar/29/2024 22:20"
+  },
   "CF256197927": {
     "contest_id": 1898,
     "language": "C++17 (GCC 7-32)",

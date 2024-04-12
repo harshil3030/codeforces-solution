@@ -1,4 +1,20 @@
 {
+  "CF256197927": {
+    "contest_id": 1898,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1898\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Colorful Grid",
+    "problem_url": "https://codeforces.com/contest/1898/problem/C",
+    "submission_id": "CF256197927",
+    "submission_url": "https://codeforces.com/contest/1898/submission/256197927",
+    "tags": [
+      "constructive algorithms",
+      "*1700"
+    ],
+    "timestamp": "Apr/12/2024 10:24"
+  },
   "CF256739700": {
     "contest_id": 1497,
     "language": "C++17 (GCC 7-32)",

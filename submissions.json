@@ -1,4 +1,23 @@
 {
+  "CF256762373": {
+    "contest_id": 1622,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1622\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Set or Decrease",
+    "problem_url": "https://codeforces.com/contest/1622/problem/C",
+    "submission_id": "CF256762373",
+    "submission_url": "https://codeforces.com/contest/1622/submission/256762373",
+    "tags": [
+      "binary search",
+      "brute force",
+      "greedy",
+      "sortings",
+      "*1600"
+    ],
+    "timestamp": "Apr/15/2024 17:37"
+  },
   "CF258482081": {
     "contest_id": 1481,
     "language": "C++17 (GCC 7-32)",

@@ -1,4 +1,21 @@
 {
+  "CF258569125": {
+    "contest_id": 1520,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1520\\F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Guess the K-th Zero (Easy version)",
+    "problem_url": "https://codeforces.com/contest/1520/problem/F1",
+    "submission_id": "CF258569125",
+    "submission_url": "https://codeforces.com/contest/1520/submission/258569125",
+    "tags": [
+      "binary search",
+      "interactive",
+      "*1600"
+    ],
+    "timestamp": "Apr/28/2024 19:05"
+  },
   "CF258581574": {
     "contest_id": 1353,
     "language": "C++17 (GCC 7-32)",

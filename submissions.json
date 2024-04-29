@@ -1,4 +1,23 @@
 {
+  "CF258638209": {
+    "contest_id": 1917,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1917\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Watering an Array",
+    "problem_url": "https://codeforces.com/contest/1917/problem/C",
+    "submission_id": "CF258638209",
+    "submission_url": "https://codeforces.com/contest/1917/submission/258638209",
+    "tags": [
+      "brute force",
+      "greedy",
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Apr/29/2024 10:09"
+  },
   "CF258653833": {
     "contest_id": 1886,
     "language": "C++17 (GCC 7-32)",

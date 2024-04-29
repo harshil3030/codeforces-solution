@@ -1,4 +1,22 @@
 {
+  "CF258780969": {
+    "contest_id": 1857,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1857\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Sum and Product",
+    "problem_url": "https://codeforces.com/contest/1857/problem/F",
+    "submission_id": "CF258780969",
+    "submission_url": "https://codeforces.com/contest/1857/submission/258780969",
+    "tags": [
+      "binary search",
+      "data structures",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "Apr/30/2024 00:15"
+  },
   "CF258874046": {
     "contest_id": 1972,
     "language": "C++17 (GCC 7-32)",

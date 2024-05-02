@@ -1,4 +1,21 @@
 {
+  "CF259208737": {
+    "contest_id": 1968,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1968\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Assembly via Remainders",
+    "problem_url": "https://codeforces.com/contest/1968/problem/C",
+    "submission_id": "CF259208737",
+    "submission_url": "https://codeforces.com/contest/1968/submission/259208737",
+    "tags": [
+      "constructive algorithms",
+      "number theory",
+      "*1000"
+    ],
+    "timestamp": "May/02/2024 21:26"
+  },
   "CF259544033": {
     "contest_id": 1626,
     "language": "C++17 (GCC 7-32)",

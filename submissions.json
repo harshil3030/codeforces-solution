@@ -1,4 +1,21 @@
 {
+  "CF259145050": {
+    "contest_id": 1968,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1968\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Prefiquence",
+    "problem_url": "https://codeforces.com/contest/1968/problem/B",
+    "submission_id": "CF259145050",
+    "submission_url": "https://codeforces.com/contest/1968/submission/259145050",
+    "tags": [
+      "greedy",
+      "two pointers",
+      "*800"
+    ],
+    "timestamp": "May/02/2024 20:23"
+  },
   "CF259202777": {
     "contest_id": 1968,
     "language": "C++17 (GCC 7-32)",

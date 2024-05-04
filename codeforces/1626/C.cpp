@@ -5,6 +5,7 @@ using namespace __gnu_pbds;
 using namespace std;
 typedef long long ll;
 #define int ll
+typedef tree<int,null_type,less<int>, rb_tree_tag,tree_order_statistics_node_update> ordset;
 void solve();
 
 signed main() {

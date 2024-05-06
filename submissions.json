@@ -1,4 +1,25 @@
 {
+  "CF259752231": {
+    "contest_id": 1955,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1955\\G.cpp",
+    "platform": "Codeforces",
+    "problem_index": "G",
+    "problem_name": "GCD on a grid",
+    "problem_url": "https://codeforces.com/contest/1955/problem/G",
+    "submission_id": "CF259752231",
+    "submission_url": "https://codeforces.com/contest/1955/submission/259752231",
+    "tags": [
+      "brute force",
+      "dfs and similar",
+      "dp",
+      "implementation",
+      "math",
+      "number theory",
+      "*1900"
+    ],
+    "timestamp": "May/06/2024 18:26"
+  },
   "CF259881693": {
     "contest_id": 983,
     "language": "C++20 (GCC 13-64)",

@@ -1,4 +1,22 @@
 {
+  "CF259927893": {
+    "contest_id": 1286,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1286\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Garland",
+    "problem_url": "https://codeforces.com/contest/1286/problem/A",
+    "submission_id": "CF259927893",
+    "submission_url": "https://codeforces.com/contest/1286/submission/259927893",
+    "tags": [
+      "dp",
+      "greedy",
+      "sortings",
+      "*1800"
+    ],
+    "timestamp": "May/08/2024 02:39"
+  },
   "CF260417168": {
     "contest_id": 1971,
     "language": "C++20 (GCC 13-64)",

@@ -1,4 +1,25 @@
 {
+  "CF260417168": {
+    "contest_id": 1971,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1971\\F.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F",
+    "problem_name": "Circle Perimeter",
+    "problem_url": "https://codeforces.com/contest/1971/problem/F",
+    "submission_id": "CF260417168",
+    "submission_url": "https://codeforces.com/contest/1971/submission/260417168",
+    "tags": [
+      "binary search",
+      "brute force",
+      "dfs and similar",
+      "geometry",
+      "implementation",
+      "math",
+      "*1600"
+    ],
+    "timestamp": "May/10/2024 22:11"
+  },
   "CF260608406": {
     "contest_id": 235,
     "language": "C++20 (GCC 13-64)",

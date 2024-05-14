@@ -1,4 +1,20 @@
 {
+  "CF260941718": {
+    "contest_id": 1203,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1203\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Circle of Students",
+    "problem_url": "https://codeforces.com/contest/1203/problem/A",
+    "submission_id": "CF260941718",
+    "submission_url": "https://codeforces.com/contest/1203/submission/260941718",
+    "tags": [
+      "implementation",
+      "*1000"
+    ],
+    "timestamp": "May/14/2024 20:04"
+  },
   "CF260948856": {
     "contest_id": 1203,
     "language": "C++20 (GCC 13-64)",

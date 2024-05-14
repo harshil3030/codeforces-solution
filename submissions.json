@@ -1,4 +1,21 @@
 {
+  "CF260948856": {
+    "contest_id": 1203,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1203\\D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "Remove the Substring (easy version)",
+    "problem_url": "https://codeforces.com/contest/1203/problem/D1",
+    "submission_id": "CF260948856",
+    "submission_url": "https://codeforces.com/contest/1203/submission/260948856",
+    "tags": [
+      "greedy",
+      "implementation",
+      "*1600"
+    ],
+    "timestamp": "May/14/2024 21:04"
+  },
   "CF260948986": {
     "contest_id": 1203,
     "language": "C++20 (GCC 13-64)",

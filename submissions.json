@@ -1,4 +1,23 @@
 {
+  "CF261345248": {
+    "contest_id": 1973,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1973\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Chess For Three",
+    "problem_url": "https://codeforces.com/contest/1973/problem/A",
+    "submission_id": "CF261345248",
+    "submission_url": "https://codeforces.com/contest/1973/submission/261345248",
+    "tags": [
+      "brute force",
+      "dp",
+      "implementation",
+      "math",
+      "*900"
+    ],
+    "timestamp": "May/17/2024 20:09"
+  },
   "CF261374748": {
     "contest_id": 1973,
     "language": "C++20 (GCC 13-64)",

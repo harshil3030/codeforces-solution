@@ -1,4 +1,22 @@
 {
+  "CF261861407": {
+    "contest_id": 1974,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1974\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Ingenuity-2",
+    "problem_url": "https://codeforces.com/contest/1974/problem/D",
+    "submission_id": "CF261861407",
+    "submission_url": "https://codeforces.com/contest/1974/submission/261861407",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "implementation",
+      "*1400"
+    ],
+    "timestamp": "May/20/2024 21:11"
+  },
   "CF261923436": {
     "contest_id": 1974,
     "language": "C++20 (GCC 13-64)",

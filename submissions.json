@@ -1,4 +1,26 @@
 {
+  "CF262778915": {
+    "contest_id": 1977,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1977\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Nikita and LCM",
+    "problem_url": "https://codeforces.com/contest/1977/problem/C",
+    "submission_id": "CF262778915",
+    "submission_url": "https://codeforces.com/contest/1977/submission/262778915",
+    "tags": [
+      "brute force",
+      "data structures",
+      "dp",
+      "greedy",
+      "math",
+      "number theory",
+      "sortings",
+      "*1900"
+    ],
+    "timestamp": "May/26/2024 22:04"
+  },
   "CF262866736": {
     "contest_id": 1954,
     "language": "C++20 (GCC 13-64)",

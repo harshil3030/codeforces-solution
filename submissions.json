@@ -1,4 +1,20 @@
 {
+  "CF262719110": {
+    "contest_id": 1977,
+    "language": "C++20 (GCC 13-64)",
+    "path": "codeforces\\1977\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Little Nikita",
+    "problem_url": "https://codeforces.com/contest/1977/problem/A",
+    "submission_id": "CF262719110",
+    "submission_url": "https://codeforces.com/contest/1977/submission/262719110",
+    "tags": [
+      "math",
+      "*800"
+    ],
+    "timestamp": "May/26/2024 20:07"
+  },
   "CF262773858": {
     "contest_id": 1977,
     "language": "C++20 (GCC 13-64)",

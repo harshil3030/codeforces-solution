@@ -1,4 +1,22 @@
 {
+  "CF262987981": {
+    "contest_id": 1901,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1901\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Add, Divide and Floor",
+    "problem_url": "https://codeforces.com/contest/1901/problem/C",
+    "submission_id": "CF262987981",
+    "submission_url": "https://codeforces.com/contest/1901/submission/262987981",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "math",
+      "*1400"
+    ],
+    "timestamp": "May/28/2024 14:54"
+  },
   "CF263174088": {
     "contest_id": 1849,
     "language": "C++17 (GCC 7-32)",

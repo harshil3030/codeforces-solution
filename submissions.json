@@ -1,4 +1,22 @@
 {
+  "CF263176665": {
+    "contest_id": 1814,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1814\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Search in Parallel",
+    "problem_url": "https://codeforces.com/contest/1814/problem/C",
+    "submission_id": "CF263176665",
+    "submission_url": "https://codeforces.com/contest/1814/submission/263176665",
+    "tags": [
+      "constructive algorithms",
+      "greedy",
+      "sortings",
+      "*1500"
+    ],
+    "timestamp": "May/30/2024 00:13"
+  },
   "CF263328673": {
     "contest_id": 1976,
     "language": "C++17 (GCC 7-32)",

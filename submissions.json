@@ -1,4 +1,26 @@
 {
+  "CF263359831": {
+    "contest_id": 1626,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1626\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Monsters And Spells",
+    "problem_url": "https://codeforces.com/contest/1626/problem/C",
+    "submission_id": "CF263359831",
+    "submission_url": "https://codeforces.com/contest/1626/submission/263359831",
+    "tags": [
+      "binary search",
+      "data structures",
+      "dp",
+      "greedy",
+      "implementation",
+      "math",
+      "two pointers",
+      "*1700"
+    ],
+    "timestamp": "May/30/2024 22:05"
+  },
   "CF264197648": {
     "contest_id": 1934,
     "language": "C++17 (GCC 7-32)",

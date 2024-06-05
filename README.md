@@ -12,7 +12,8 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-4 | [D2 - XOR Break --- Game Version](https://codeforces.com/contest/1934/problem/D2) | [C++17 (GCC 7-32)](./codeforces/1934/D2.cpp) | `bitmasks` `games` `greedy` `interactive` `*2400` | Jun/05/2024 11:41 | 
-3 | [D1 - XOR Break --- Solo Version](https://codeforces.com/contest/1934/problem/D1) | [C++17 (GCC 7-32)](./codeforces/1934/D1.cpp) | `bitmasks` `constructive algorithms` `greedy` `*2100` | Jun/05/2024 11:14 | 
-2 | [C - Find a Mine](https://codeforces.com/contest/1934/problem/C) | [C++17 (GCC 7-32)](./codeforces/1934/C.cpp) | `binary search` `constructive algorithms` `geometry` `greedy` `interactive` `math` `*1700` | Jun/05/2024 10:33 | 
-1 | [B - Yet Another Coin Problem](https://codeforces.com/contest/1934/problem/B) | [C++17 (GCC 7-32)](./codeforces/1934/B.cpp) | `brute force` `dp` `greedy` `math` `*1200` | Jun/05/2024 10:07 | 
+5 | [D2 - XOR Break --- Game Version](https://codeforces.com/contest/1934/problem/D2) | [C++17 (GCC 7-32)](./codeforces/1934/D2.cpp) | `bitmasks` `games` `greedy` `interactive` `*2400` | Jun/05/2024 11:41 | 
+4 | [D1 - XOR Break --- Solo Version](https://codeforces.com/contest/1934/problem/D1) | [C++17 (GCC 7-32)](./codeforces/1934/D1.cpp) | `bitmasks` `constructive algorithms` `greedy` `*2100` | Jun/05/2024 11:14 | 
+3 | [C - Find a Mine](https://codeforces.com/contest/1934/problem/C) | [C++17 (GCC 7-32)](./codeforces/1934/C.cpp) | `binary search` `constructive algorithms` `geometry` `greedy` `interactive` `math` `*1700` | Jun/05/2024 10:33 | 
+2 | [B - Yet Another Coin Problem](https://codeforces.com/contest/1934/problem/B) | [C++17 (GCC 7-32)](./codeforces/1934/B.cpp) | `brute force` `dp` `greedy` `math` `*1200` | Jun/05/2024 10:07 | 
+1 | [A - Too Min Too Max](https://codeforces.com/contest/1934/problem/A) | [C++17 (GCC 7-32)](./codeforces/1934/A.cpp) | `greedy` `math` `*800` | Jun/05/2024 09:48 | 

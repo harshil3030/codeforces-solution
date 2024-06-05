@@ -1,0 +1,21 @@
+{
+  "CF264209992": {
+    "contest_id": 1934,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1934\\D2.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D2",
+    "problem_name": "XOR Break --- Game Version",
+    "problem_url": "https://codeforces.com/contest/1934/problem/D2",
+    "submission_id": "CF264209992",
+    "submission_url": "https://codeforces.com/contest/1934/submission/264209992",
+    "tags": [
+      "bitmasks",
+      "games",
+      "greedy",
+      "interactive",
+      "*2400"
+    ],
+    "timestamp": "Jun/05/2024 11:41"
+  }
+}

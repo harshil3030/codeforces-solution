@@ -1,4 +1,25 @@
 {
+  "CF264202106": {
+    "contest_id": 1934,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1934\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Find a Mine",
+    "problem_url": "https://codeforces.com/contest/1934/problem/C",
+    "submission_id": "CF264202106",
+    "submission_url": "https://codeforces.com/contest/1934/submission/264202106",
+    "tags": [
+      "binary search",
+      "constructive algorithms",
+      "geometry",
+      "greedy",
+      "interactive",
+      "math",
+      "*1700"
+    ],
+    "timestamp": "Jun/05/2024 10:33"
+  },
   "CF264206700": {
     "contest_id": 1934,
     "language": "C++17 (GCC 7-32)",

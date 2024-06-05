@@ -1,4 +1,22 @@
 {
+  "CF264206700": {
+    "contest_id": 1934,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1934\\D1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D1",
+    "problem_name": "XOR Break --- Solo Version",
+    "problem_url": "https://codeforces.com/contest/1934/problem/D1",
+    "submission_id": "CF264206700",
+    "submission_url": "https://codeforces.com/contest/1934/submission/264206700",
+    "tags": [
+      "bitmasks",
+      "constructive algorithms",
+      "greedy",
+      "*2100"
+    ],
+    "timestamp": "Jun/05/2024 11:14"
+  },
   "CF264209992": {
     "contest_id": 1934,
     "language": "C++17 (GCC 7-32)",

@@ -1,4 +1,23 @@
 {
+  "CF264199418": {
+    "contest_id": 1934,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1934\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Yet Another Coin Problem",
+    "problem_url": "https://codeforces.com/contest/1934/problem/B",
+    "submission_id": "CF264199418",
+    "submission_url": "https://codeforces.com/contest/1934/submission/264199418",
+    "tags": [
+      "brute force",
+      "dp",
+      "greedy",
+      "math",
+      "*1200"
+    ],
+    "timestamp": "Jun/05/2024 10:07"
+  },
   "CF264202106": {
     "contest_id": 1934,
     "language": "C++17 (GCC 7-32)",

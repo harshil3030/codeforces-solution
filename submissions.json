@@ -8382,5 +8382,22 @@
       "*2400"
     ],
     "timestamp": "Jun/05/2024 11:41"
+  },
+  "CF264505687": {
+    "contest_id": 1979,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1979\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Earning on Bets",
+    "problem_url": "https://codeforces.com/contest/1979/problem/C",
+    "submission_id": "CF264505687",
+    "submission_url": "https://codeforces.com/contest/1979/submission/264505687",
+    "tags": [
+      "combinatorics",
+      "constructive algorithms",
+      "number theory"
+    ],
+    "timestamp": "Jun/07/2024 00:27"
   }
 }

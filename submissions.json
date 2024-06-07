@@ -8452,6 +8452,24 @@
     ],
     "timestamp": "Jun/07/2024 13:02"
   },
+  "CF264629697": {
+    "contest_id": 1980,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1980\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "GCD-sequence",
+    "problem_url": "https://codeforces.com/contest/1980/problem/D",
+    "submission_id": "CF264629697",
+    "submission_url": "https://codeforces.com/contest/1980/submission/264629697",
+    "tags": [
+      "greedy",
+      "implementation",
+      "math",
+      "number theory"
+    ],
+    "timestamp": "Jun/07/2024 22:59"
+  },
   "CF264631906": {
     "contest_id": 1980,
     "language": "C++17 (GCC 7-32)",

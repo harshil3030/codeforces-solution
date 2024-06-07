@@ -8431,5 +8431,25 @@
       "number theory"
     ],
     "timestamp": "Jun/07/2024 00:27"
+  },
+  "CF264558194": {
+    "contest_id": 1979,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1979\\D.cpp",
+    "platform": "Codeforces",
+    "problem_index": "D",
+    "problem_name": "Fixing a Binary String",
+    "problem_url": "https://codeforces.com/contest/1979/problem/D",
+    "submission_id": "CF264558194",
+    "submission_url": "https://codeforces.com/contest/1979/submission/264558194",
+    "tags": [
+      "bitmasks",
+      "brute force",
+      "constructive algorithms",
+      "greedy",
+      "hashing",
+      "strings"
+    ],
+    "timestamp": "Jun/07/2024 13:02"
   }
 }

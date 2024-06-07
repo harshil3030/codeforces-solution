@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+454 | [D - Fixing a Binary String](https://codeforces.com/contest/1979/problem/D) | [C++17 (GCC 7-32)](./codeforces/1979/D.cpp) | `bitmasks` `brute force` `constructive algorithms` `greedy` `hashing` `strings` | Jun/07/2024 13:02 | 
 453 | [C - Earning on Bets](https://codeforces.com/contest/1979/problem/C) | [C++17 (GCC 7-32)](./codeforces/1979/C.cpp) | `combinatorics` `constructive algorithms` `number theory` | Jun/07/2024 00:27 | 
 452 | [B - XOR Sequences](https://codeforces.com/contest/1979/problem/B) | [C++17 (GCC 7-32)](./codeforces/1979/B.cpp) | `bitmasks` | Jun/06/2024 23:40 | 
 451 | [A - Guess the Maximum](https://codeforces.com/contest/1979/problem/A) | [C++17 (GCC 7-32)](./codeforces/1979/A.cpp) | `brute force` `greedy` `implementation` | Jun/06/2024 23:28 | 

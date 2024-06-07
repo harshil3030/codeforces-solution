@@ -8538,5 +8538,22 @@
       "sortings"
     ],
     "timestamp": "Jun/07/2024 23:16"
+  },
+  "CF264637798": {
+    "contest_id": 1980,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1980\\F1.cpp",
+    "platform": "Codeforces",
+    "problem_index": "F1",
+    "problem_name": "Field Division (easy version)",
+    "problem_url": "https://codeforces.com/contest/1980/problem/F1",
+    "submission_id": "CF264637798",
+    "submission_url": "https://codeforces.com/contest/1980/submission/264637798",
+    "tags": [
+      "data structures",
+      "math",
+      "sortings"
+    ],
+    "timestamp": "Jun/08/2024 00:06"
   }
 }

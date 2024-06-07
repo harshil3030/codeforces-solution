@@ -8452,6 +8452,22 @@
     ],
     "timestamp": "Jun/07/2024 13:02"
   },
+  "CF264622726": {
+    "contest_id": 1980,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1980\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Choosing Cubes",
+    "problem_url": "https://codeforces.com/contest/1980/problem/B",
+    "submission_id": "CF264622726",
+    "submission_url": "https://codeforces.com/contest/1980/submission/264622726",
+    "tags": [
+      "sortings",
+      "sortings"
+    ],
+    "timestamp": "Jun/07/2024 22:01"
+  },
   "CF264624748": {
     "contest_id": 1980,
     "language": "C++17 (GCC 7-32)",

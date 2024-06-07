@@ -8452,6 +8452,21 @@
     ],
     "timestamp": "Jun/07/2024 13:02"
   },
+  "CF264621793": {
+    "contest_id": 1980,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1980\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Problem Generator",
+    "problem_url": "https://codeforces.com/contest/1980/problem/A",
+    "submission_id": "CF264621793",
+    "submission_url": "https://codeforces.com/contest/1980/submission/264621793",
+    "tags": [
+      "math"
+    ],
+    "timestamp": "Jun/07/2024 21:54"
+  },
   "CF264622726": {
     "contest_id": 1980,
     "language": "C++17 (GCC 7-32)",

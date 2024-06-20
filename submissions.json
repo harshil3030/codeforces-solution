@@ -8897,5 +8897,24 @@
       "*1600"
     ],
     "timestamp": "Jun/19/2024 14:47"
+  },
+  "CF266526864": {
+    "contest_id": 986,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\986\\A.cpp",
+    "platform": "Codeforces",
+    "problem_index": "A",
+    "problem_name": "Fair",
+    "problem_url": "https://codeforces.com/contest/986/problem/A",
+    "submission_id": "CF266526864",
+    "submission_url": "https://codeforces.com/contest/986/submission/266526864",
+    "tags": [
+      "graphs",
+      "greedy",
+      "number theory",
+      "shortest paths",
+      "*1600"
+    ],
+    "timestamp": "Jun/20/2024 11:10"
   }
 }

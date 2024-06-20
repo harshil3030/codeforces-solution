@@ -8956,6 +8956,22 @@
     ],
     "timestamp": "Jun/20/2024 11:10"
   },
+  "CF266593261": {
+    "contest_id": 1082,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1082\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Vova and Trophies",
+    "problem_url": "https://codeforces.com/contest/1082/problem/B",
+    "submission_id": "CF266593261",
+    "submission_url": "https://codeforces.com/contest/1082/submission/266593261",
+    "tags": [
+      "greedy",
+      "*1600"
+    ],
+    "timestamp": "Jun/20/2024 20:17"
+  },
   "CF266598398": {
     "contest_id": 1619,
     "language": "C++17 (GCC 7-32)",

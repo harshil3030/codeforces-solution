@@ -8955,5 +8955,22 @@
       "*1600"
     ],
     "timestamp": "Jun/20/2024 11:10"
+  },
+  "CF266999160": {
+    "contest_id": 1986,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1986\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Update Queries",
+    "problem_url": "https://codeforces.com/contest/1986/problem/C",
+    "submission_id": "CF266999160",
+    "submission_url": "https://codeforces.com/contest/1986/submission/266999160",
+    "tags": [
+      "data structures",
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Jun/23/2024 20:41"
   }
 }

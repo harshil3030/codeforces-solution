@@ -8956,6 +8956,24 @@
     ],
     "timestamp": "Jun/20/2024 11:10"
   },
+  "CF266987571": {
+    "contest_id": 1986,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\1986\\B.cpp",
+    "platform": "Codeforces",
+    "problem_index": "B",
+    "problem_name": "Matrix Stabilization",
+    "problem_url": "https://codeforces.com/contest/1986/problem/B",
+    "submission_id": "CF266987571",
+    "submission_url": "https://codeforces.com/contest/1986/submission/266987571",
+    "tags": [
+      "brute force",
+      "data structures",
+      "greedy",
+      "sortings"
+    ],
+    "timestamp": "Jun/23/2024 20:32"
+  },
   "CF266999160": {
     "contest_id": 1986,
     "language": "C++17 (GCC 7-32)",

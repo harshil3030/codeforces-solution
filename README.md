@@ -13,6 +13,7 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
+492 | [C - Fixing Typos](https://codeforces.com/contest/363/problem/C) | [C++17 (GCC 7-32)](./codeforces/363/C.cpp) | `greedy` `implementation` `*1400` | Jun/26/2024 00:48 | 
 491 | [C - Update Queries](https://codeforces.com/contest/1986/problem/C) | [C++17 (GCC 7-32)](./codeforces/1986/C.cpp) | `data structures` `greedy` `sortings` | Jun/23/2024 20:41 | 
 490 | [B - Matrix Stabilization](https://codeforces.com/contest/1986/problem/B) | [C++17 (GCC 7-32)](./codeforces/1986/B.cpp) | `brute force` `data structures` `greedy` `sortings` | Jun/23/2024 20:32 | 
 489 | [A - X Axis](https://codeforces.com/contest/1986/problem/A) | [C++17 (GCC 7-32)](./codeforces/1986/A.cpp) | `brute force` `math` `sortings` | Jun/23/2024 20:24 | 

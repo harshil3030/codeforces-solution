@@ -9140,6 +9140,23 @@
     ],
     "timestamp": "Jun/23/2024 20:41"
   },
+  "CF267322071": {
+    "contest_id": 479,
+    "language": "C++17 (GCC 7-32)",
+    "path": "codeforces\\479\\C.cpp",
+    "platform": "Codeforces",
+    "problem_index": "C",
+    "problem_name": "Exams",
+    "problem_url": "https://codeforces.com/contest/479/problem/C",
+    "submission_id": "CF267322071",
+    "submission_url": "https://codeforces.com/contest/479/submission/267322071",
+    "tags": [
+      "greedy",
+      "sortings",
+      "*1400"
+    ],
+    "timestamp": "Jun/25/2024 19:18"
+  },
   "CF267326414": {
     "contest_id": 478,
     "language": "C++17 (GCC 7-32)",

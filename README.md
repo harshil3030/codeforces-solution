@@ -13,8 +13,9 @@ A repository to keep track of problem solving practice, containing solutions fro
 
 | # | Title | Solution | Tags | Submitted |
 |---| ----- | -------- | ---- | --------- |
-493 | [C - Fixing Typos](https://codeforces.com/contest/363/problem/C) | [C++17 (GCC 7-32)](./codeforces/363/C.cpp) | `greedy` `implementation` `*1400` | Jun/26/2024 00:48 | 
-492 | [C - Palindrome Transformation](https://codeforces.com/contest/486/problem/C) | [C++17 (GCC 7-32)](./codeforces/486/C.cpp) | `brute force` `greedy` `implementation` `*1700` | Jun/26/2024 00:32 | 
+494 | [C - Fixing Typos](https://codeforces.com/contest/363/problem/C) | [C++17 (GCC 7-32)](./codeforces/363/C.cpp) | `greedy` `implementation` `*1400` | Jun/26/2024 00:48 | 
+493 | [C - Palindrome Transformation](https://codeforces.com/contest/486/problem/C) | [C++17 (GCC 7-32)](./codeforces/486/C.cpp) | `brute force` `greedy` `implementation` `*1700` | Jun/26/2024 00:32 | 
+492 | [C - Valera and Tubes ](https://codeforces.com/contest/441/problem/C) | [C++17 (GCC 7-32)](./codeforces/441/C.cpp) | `constructive algorithms` `dfs and similar` `implementation` `*1500` | Jun/25/2024 23:55 | 
 491 | [C - Update Queries](https://codeforces.com/contest/1986/problem/C) | [C++17 (GCC 7-32)](./codeforces/1986/C.cpp) | `data structures` `greedy` `sortings` | Jun/23/2024 20:41 | 
 490 | [B - Matrix Stabilization](https://codeforces.com/contest/1986/problem/B) | [C++17 (GCC 7-32)](./codeforces/1986/B.cpp) | `brute force` `data structures` `greedy` `sortings` | Jun/23/2024 20:32 | 
 489 | [A - X Axis](https://codeforces.com/contest/1986/problem/A) | [C++17 (GCC 7-32)](./codeforces/1986/A.cpp) | `brute force` `math` `sortings` | Jun/23/2024 20:24 | 
